@@ -1,9 +1,10 @@
 # stock-price-prediction
 Stock-price prediction
 
-image
+![image](https://github.com/Mahendrasakhamuri/stock-price-prediction/assets/138279620/54ef29b2-dcbe-4dea-8d27-0eaacd6a2d4f)
 
-image
+
+![image](https://github.com/Mahendrasakhamuri/stock-price-prediction/assets/138279620/e1adcf89-f3a5-4564-a36a-cbc74f0db1b6)
 
 "📈 Stock price Prediction Using LSTM 📉
 
